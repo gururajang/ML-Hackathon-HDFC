@@ -19,3 +19,6 @@ The problem with imbalance was handled with Hyperparameter -is_unbalance. I narr
 
 In order to improve accuracy, I used a very low learning rate.
  
+ The Data files can be taken from the below link
+ 
+ https://drive.google.com/drive/folders/1LcEi4y_P7fCvyf9lYhdQBWaqSuxV6sgz?usp=sharing
